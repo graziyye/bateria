@@ -1,0 +1,1 @@
+const sons = {'A': 'boom.wav', 'B': 'clap.wav', 'C': 'hihat.wav', 'D':'kick.wav', 'E':'openhat.wav','F':'ride.wav', 'G':'snare.wav', 'H':'tink.wav','I':'tom.wav'}
