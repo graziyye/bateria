@@ -1,12 +1,17 @@
 *{
     font-family: Arial, Helvetica, sans-serif;
-    background-color: aliceblue;
+}
+
+body{
+    background-image: url(./bateria.jpeg);
+ 
 }
 
 
 .title{
     font-weight: bold;
-    color: rgb(5, 78, 78);
+    background-color: rgba(0, 0, 0, 0.479);
+    color: rgb(255, 255, 255);
     text-align: center;
     font-size: 3rem;
     border-style:  solid;
